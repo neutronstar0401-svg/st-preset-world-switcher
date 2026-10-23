@@ -1,0 +1,12 @@
+{
+  "display_name": "预设与世界书智能切换管家 (Preset & WorldInfo Switcher)",
+  "loading_order": 50,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "Custom Extension",
+  "version": "1.0.0",
+  "homePage": "https://docs.sillytavern.app/for-contributors/writing-extensions/",
+  "auto_update": false
+}
